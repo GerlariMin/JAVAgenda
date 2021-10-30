@@ -5,13 +5,14 @@
 ## Sommaire
 
 - [JAVAgenda](#javagenda)
-          - [Temps de lecture: 1 minute](#temps-de-lecture-1-minute)
-  - [Sommaire](#sommaire)
-  - [Résumé](#résumé)
-  - [Développement et spécificités du projet](#développement-et-spécificités-du-projet)
-  - [Application](#application)
-  - [Essayer l'application](#essayer-lapplication)
-  - [Améliorations possibles](#améliorations-possibles)
+- [Temps de lecture: 1 minute](#temps-de-lecture-1-minute)
+- [Sommaire](#sommaire)
+- [Résumé](#résumé)
+- [Développement et spécificités du projet](#développement-et-spécificités-du-projet)
+- [Documentation du code](#documentation-du-code)
+- [Application](#application)
+- [Essayer l'application](#essayer-lapplication)
+- [Améliorations possibles](#améliorations-possibles)
 
 ## Résumé
 
@@ -23,6 +24,10 @@
 
 - Version Java: `Java 14`
 - IDE: `Eclipe 2021-09`
+
+## Documentation du code
+
+La documentation du code est disponible [`ici`](https://gerlarimin.github.io/JAVAgenda/).
 
 ## Application
 
