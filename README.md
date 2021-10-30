@@ -42,11 +42,11 @@ Exemple du résultat de l'affichage une fois que l'on a ajouté plusieurs évén
 ## Essayer l'application
 
 1. Récupérer le fichier JAR exécutable [`/src/ressources/executable/JAVAgenda.jar`](/src/ressources/executable/JAVAgenda.jar).
-2. Le lancer (doublic-cliquer dessus).
+2. Le lancer (double-cliquer dessus).
 
 ## Améliorations possibles
 
-- Gestion des événements lors d'un clic sur une cellule du tableau du calendrier détaillé du mois, pour afficher les détails d'un événements saisi.
-- Notifier qu'un jour contient des événements avec un code couleur différents sur le calendrier des jours du mois affiché.
+- Gestion des événements lors d'un clic sur une cellule du tableau du calendrier détaillé du mois, pour afficher les détails d'un événement saisi.
+- Notifier qu'un jour contient des événements avec un code couleur différent sur le calendrier des jours du mois affiché.
 - Ajouter la possibilité de sauvegarder le calendrier sous un fichier texte.
 - Ajouter la possibilité de charger les données sauvegardées au démarrage de l'application.
